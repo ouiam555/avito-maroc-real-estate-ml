@@ -1,0 +1,5 @@
+2026-05-04 11:46:24,060 - ERROR - Error creating database connection: No module named 'psycopg2'
+2026-05-04 11:50:14,291 - INFO - Database connection created successfully
+2026-05-04 12:54:27,801 - INFO - Database connection created successfully
+2026-05-04 12:55:29,720 - INFO - Database connection created successfully
+2026-05-04 12:58:42,988 - INFO - Database connection created successfully
